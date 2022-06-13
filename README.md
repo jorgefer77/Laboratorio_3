@@ -2,15 +2,11 @@
 # Hito 1
 En primer lugar se efectua la idea general del funcionamiento del algoritmo el cual consiste en lo siguiente:
 
-1. Primero transforma a binario los valores de entrada
-
-2. Luego se aplica XOR a dichos valores
-
-3. Posteriormente se transforma a hexadecimal
-
-4. Luego se transforma a ASCII
-
-5. Finalmente se obtiene el valor de hash (salida)
+1. Primero transforma a base 64 los valores de entrada.
+2. luego se transforma a ASCII.
+3. Posteriormente se pasa a hexadecimal.
+4. Después se aplica XOR (este XOR solo se aplicara a las contraseñas).
+5. Finalmente se obtiene el valor de hash (salida).
 
 Nota: Todo esto se puede ver de mejor forma en el diagrama.
 
