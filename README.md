@@ -5,7 +5,7 @@ En primer lugar se efectua la idea general del funcionamiento del algoritmo el c
 1. Primero transforma a base 64 los valores de entrada.
 2. luego se transforma a ASCII.
 3. Posteriormente se pasa a hexadecimal.
-4. Después se aplica XOR (este XOR solo se aplicara con la llave).
+4. Después se aplica un padding en caso de ser necesario.
 5. Finalmente se obtiene el valor de hash (salida).
 
 Nota: Todo esto se puede ver de mejor forma en el diagrama.
