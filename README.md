@@ -17,4 +17,5 @@ Todo ello se puede ver en la parte de codigo (archivo adjunto).
 
 # Hito 3
 Se efectua comparaciones entre la funcion hash realizada y otras ya imnplementadas como por ejemplo, MD5, SHA1, SHA256, ademas de efectuar pruebas de archivos.
+
 Nota: Todo esto se puede ver de mejor manera en el archivo adjunto "Hito 3".
