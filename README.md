@@ -19,7 +19,7 @@ Nota: Todo esto se puede ver de mejor forma en el diagrama (archivo adjunto).
 # Hito 2
 En este caso se efectua el codigo del algoritmo con todos los puntos mencionados anteriormente, ademas de cumplir con lo del gremio de dueños de sitios webs vulnerados.
 
-Nota: Todo ello se puede ver en la parte de codigo (archivo adjunto).
+Nota: Todo ello se puede ver en la parte de codigos (archivo adjunto).
 
 
 # Hito 3
