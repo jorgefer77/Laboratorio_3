@@ -1,6 +1,6 @@
 # Laboratorio 3
 # Hito 1
-1) Objetivo:
+1) Objetivo (caso de uso):
 
 Se busca generar integridad en los datos y confidencialidad en las contraseñas al momento de ser ingresadas por el usuario cuando realiza un inicio de sesión y estas almacenarse posteriormente en la base de datos. Dichas contraseñas se almacenan hasheadas en la tabla de base de datos para poder proteger dichos datos de acceso frente a un robo de los datos por ejemplo. Además, en la base de datos se trabaja de mejor manera con tablas de hash para poder no solo garantizar mayor seguridad sino también trabajar de mejor manera las búsquedas. Por lo que se debe implementar un algoritmo que garantice que dichas contraseñas estén hasheadas y así poder permitir integridad y confidencialidad en los datos almacenados en la base de la página web.
 
